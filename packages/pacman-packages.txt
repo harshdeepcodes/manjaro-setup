@@ -16,3 +16,4 @@ fzf
 jq
 ip
 parallel
+npm
